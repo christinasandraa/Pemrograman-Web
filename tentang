@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+     <head>
+          <title>tentang</title>
+     </head>
+
+<style>
+      body {
+        background-color: #EEE2DC; /* mengatur warna background */
+      }
+</style>
+
+<a href="index.html"> Menu Utama </a>
+<br>
+<a href="penjualan.html"> Penjualan </a>
+<br>
+<a href="tentang.html"> Tentang Saya </a>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<body>
+	<div align="center">
+	<font face="times new roman" size="5" color="black">
+	<b> Nama : Christina Sandra <br> NIM : 20101106011 <br> Kelas : Sistem Informasi A </b>
+	</font>
+	</div>
+<br>
+<br>
+<br>
+<br>
+
+<footer>
+<div style="background-color: #E9967A;">
+<p style="text-align: center">20101106011 - Christina Sandra - Sistem Informasi A</p>
+</div>
+</footer>
+</body>
+
+</html>
