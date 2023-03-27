@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>UJIAN</title>
+	</head>
+
+<style>
+      body {
+        background-color: #EEE2DC ; /* mengatur warna background */
+      }   
+</style>
+
+<body>
+     <div align="center" style="background-color: #EDC7B7";>
+     <font face="times new roman" size="10">
+     <hr>
+     <b> Menu Utama Ujian 1 P.Web </b>
+     <hr>
+     </font>
+     </div>
+<a href="index.html"> Menu Utama </a>
+<br>
+<a href="penjualan.html"> Penjualan </a>
+<br>
+<a href="tentang.html"> Tentang Saya </a>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+	<div align="center">
+	<font face="times new roman" size="5" color="black">
+	<b> Selamat Datang </b>
+	</font>
+	</div>
+</body>
+
+<br>
+<br>
+<br>
+<br>
+<footer>
+<div style="background-color: #E9967A;">
+<p style="text-align: center">20101106011 - Christina Sandra - Sistem Informasi A</p>
+</div>
+</footer>
+
+</html>
